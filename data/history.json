@@ -1,0 +1,21 @@
+{
+  "total_trades": 3,
+  "total_wins": 2,
+  "total_losses": 1,
+  "total_pnl": 9.6,
+  "records": [
+    {
+      "issue": "20261020103011329",
+      "time": "2026-10-20 23:29:45",
+      "m1": "SMALL",
+      "m2": "SMALL",
+      "call": "BIG",
+      "outcome": "BIG (5)",
+      "step": 1,
+      "stake": 10,
+      "pnl": "+9.60 INR",
+      "result": "WIN",
+      "live_mode": true
+    }
+  ]
+}

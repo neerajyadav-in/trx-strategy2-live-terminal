@@ -1,0 +1,19 @@
+{
+  "active_phone": "9926976446",
+  "accounts": [
+    {
+      "phone": "9926976446",
+      "password": "Hackerterimkc1",
+      "userId": "769153",
+      "balance": 285.0,
+      "label": "Primary Funded Account"
+    },
+    {
+      "phone": "9999911111",
+      "password": "Hackerterimkc1",
+      "userId": "772096",
+      "balance": 0.0,
+      "label": "Secondary Account"
+    }
+  ]
+}
